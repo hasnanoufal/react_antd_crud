@@ -1,3 +1,6 @@
+# User management app screen
+![image](https://github.com/hasnanoufal/react_antd_crud/assets/137610652/c0d61555-f3cc-49f0-97b2-1d9845edb64a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
